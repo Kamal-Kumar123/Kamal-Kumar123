@@ -173,15 +173,8 @@ Generative AI-powered transcript summarization and action item extraction.
 </p>
 
 ---
-
 ## 👀 Profile Views
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Kamal-Kumar123&icon=5&color=12" />
-</p>
-
----
-
-<p align="center">
-⭐ Turning ideas into intelligent systems through Machine Learning, Research, and Innovation.
+  <img src="https://komarev.com/ghpvc/?username=Kamal-Kumar123&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
