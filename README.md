@@ -1,10 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Kamal%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20|%20Computer%20Vision%20|%20AWS%20Campus%20Leader&descAlignY=55" />
+<h1 align="center">Hi 👋, I'm Kamal Kumar</h1>
+<h3 align="center">AWS Campus Leader @ NIT Srinagar | Machine Learning & Computer Vision Enthusiast</h3>
 
-# 👋 Hi, I'm Kamal Kumar
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Computer+Vision+Researcher;AWS+Campus+Leader;Deep+Learning+Explorer;Building+AI+for+Real+World+Problems" />
+</p>
 
-### 🚀 AWS Campus Leader @ NIT Srinagar | ML & Computer Vision Enthusiast
+---
 
-🎓 B.Tech Information Technology (2023–2027) at NIT Srinagar
+## 🚀 About Me
+
+🎓 B.Tech Information Technology (2023–2027) @ NIT Srinagar
+
+☁️ AWS Campus Leader @ NIT Srinagar
 
 🏆 Flipr Hackathon Winner (Rank 1)
 
@@ -12,18 +19,18 @@
 
 🖥️ Research Intern @ MNNIT Allahabad
 
-💡 Passionate about Machine Learning, Deep Learning, Computer Vision, GenAI, and Backend Systems
+🤖 Passionate about:
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Generative AI
+- Distributed Systems
 
----
-
-## 💫 About Me
-
-- 🔭 Currently working on Computer Vision and AI applications
-- 🤖 Building ML, Deep Learning, and GenAI projects
-- 🎯 Interested in AI Research, MLOps, and Scalable Backend Systems
-- 🌱 Learning Advanced Deep Learning, Distributed Systems, and Cloud Technologies
-- 📚 Exploring Transformers, Multimodal AI, and Large Language Models
-- ⚡ Fun fact: I enjoy solving real-world problems through code and mathematics
+🌱 Currently learning:
+- Advanced Deep Learning
+- Transformers
+- MLOps
+- Cloud Computing
 
 ---
 
@@ -31,17 +38,17 @@
 
 🏆 Flipr Hackathon Winner (Rank 1)
 
-☁️ AWS Campus Leader – NIT Srinagar
+☁️ AWS Campus Leader
 
-🔬 Research Internship – IIT Roorkee
+🔬 Research Intern @ IIT Roorkee
 
-🖥️ Research Internship – MNNIT Allahabad
+🖥️ Research Intern @ MNNIT Allahabad
 
-🎓 Goldman Sachs Software Engineering Job Simulation
+💼 Goldman Sachs Software Engineering Job Simulation
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### Programming Languages
 
@@ -62,13 +69,12 @@
 
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23008DD5.svg?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### Backend & Databases
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -76,87 +82,107 @@
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🎯 YOLOv8 Player Tracking System
-- Real-time player detection and tracking
-- Computer Vision + Deep Learning
-- Custom tracking logic and ID consistency
+Real-time player tracking using YOLOv8, custom tracking logic, color matching, and ID consistency.
 
 ### 📡 Remote Sensing Image Captioning
-- Transformer-based image caption generation
-- Research project at IIT Roorkee
-- Multimodal Deep Learning
+Transformer-based image captioning system developed during IIT Roorkee research internship.
 
 ### 💬 Kafka Realtime Chat
-- Docker + Kafka + PostgreSQL + MongoDB
-- Real-time messaging architecture
+Scalable real-time chat application using Kafka, Docker, PostgreSQL, and MongoDB.
 
 ### 🎓 Automated Attendance System
-- CNN-based face recognition
-- Real-time attendance monitoring
+CNN-powered real-time face recognition attendance system.
 
 ### 🤖 AI Meeting Assistant
-- GenAI-powered transcript summarization
-- Task extraction and action item generation
+Generative AI-powered transcript summarization and action item extraction.
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamal-nits)
+<p align="left">
+<a href="https://www.linkedin.com/in/kamal-nits/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kamal-kumar123.github.io/kamal-portfolio/)
+<a href="https://kamal-kumar123.github.io/kamal-portfolio/" target="blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2023nitsgr245@nitsri.ac.in)
+<a href="mailto:2023nitsgr245@nitsri.ac.in">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Hash-D25&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Kamal-Kumar123&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hash-D25&theme=tokyonight&hide_border=true)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamal-Kumar123&theme=tokyonight&hide_border=true" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hash-D25&theme=tokyonight&hide_border=true&layout=compact)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamal-Kumar123&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Hash-D25&theme=tokyonight&no-frame=true&margin-w=15)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Kamal-Kumar123&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Hash-D25&theme=tokyo-night)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kamal-Kumar123&theme=tokyo-night" />
+</p>
+
+---
+
+## 🔥 Current Focus
+
+- Computer Vision
+- Deep Learning
+- MLOps
+- AWS Cloud
+- Distributed Systems
+- Generative AI
 
 ---
 
 ## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-## 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=Hash-D25&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
 ## 👀 Profile Views
 
-![](https://visitcount.itsvg.in/api?id=Hash-D25&icon=5&color=12)
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=Kamal-Kumar123&icon=5&color=12" />
+</p>
 
 ---
 
-### ⭐ "Turning ideas into intelligent systems through Machine Learning, Research, and Innovation."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+<p align="center">
+⭐ Turning ideas into intelligent systems through Machine Learning, Research, and Innovation.
+</p>
