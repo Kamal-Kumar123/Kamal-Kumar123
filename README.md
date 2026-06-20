@@ -137,11 +137,6 @@ Generative AI-powered transcript summarization and action item extraction.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kamal-Kumar123&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
-</p>
 
 ---
 
