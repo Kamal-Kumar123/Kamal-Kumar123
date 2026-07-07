@@ -7,6 +7,7 @@
 
 ---
 
+
 ## 🚀 About Me
 
 🎓 B.Tech Information Technology (2023–2027) @ NIT Srinagar
